@@ -60,6 +60,7 @@ article div:nth-child(3) {
 
 article span {
   text-transform: uppercase;
+  font-family: "Lexend Deca";
 }
 
 @media (min-width: calc(500rem / 16)) {
