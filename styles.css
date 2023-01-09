@@ -58,6 +58,10 @@ article div:nth-child(3) {
   margin-block: 24px;
 }
 
+article span {
+  text-transform: uppercase;
+}
+
 @media (min-width: calc(500rem / 16)) {
   article {
     display: flex;
@@ -77,6 +81,14 @@ article div:nth-child(3) {
   main {
     display: flex;
     flex-direction: row-reverse;
+  }
+
+  h1 {
+    font-size: calc(36rem / 16);
+  }
+
+  strong {
+    font-size: calc(24rem / 16);
   }
 }
 
