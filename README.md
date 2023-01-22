@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://ethandotstudio.github.io/FM-Challenge--stats-preview-card-component)
+- [Live Site](https://ethandotstudio.github.io/Frontend-Mentor__Stats-Preview-Card-Component)
 
 ## My process
 
